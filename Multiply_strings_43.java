@@ -18,7 +18,7 @@ public class Multiply_strings_43 {
             {
                 int n1=num1.charAt(i)-'0';
                 int n2=num2.charAt(j)-'0';
-                int multiply=n1*n2;
+                
                 product[i+j+1]+=n1*n2;
             }
         }
