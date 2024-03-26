@@ -4,6 +4,7 @@ import java.util.*;
 public class Find_all_duplicates_in_array_442 {
     public static void main(String[] args) {
         int nums[]={4,3,2,7,8,2,3,1};
+        
         Find_all_duplicates_in_array_442 ob=new Find_all_duplicates_in_array_442();
         System.out.println(ob.findDuplicates(nums));
     }
